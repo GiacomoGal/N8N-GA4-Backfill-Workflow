@@ -1,3 +1,21 @@
+# Nota di fork (GiacomoGal) — lettura umana
+
+Nota documentale del fork. Il README upstream è il blocco che inizia al titolo «N8N GA4 Backfill Workflow» ed è conservato sotto questa nota.
+
+Uso corrente: sconosciuto. Installazione: sconosciuta. Inventario locale (snapshot 7 novembre 2026, lotto 6 sezione 4): UNMAPPED, identity_proven=false, unknowncurrentuse=true, nextdocscope=unresolved. Lo stato attivo del fork resta sconosciuto.
+
+La descrizione GitHub parla di workflow no-code, 13 report GA4, backfill storico, sync giornaliero e Telegram opzionale. Quel testo occupa il ruolo di descrizione del repository. Risultato misurato e mandato di esecuzione restano ruoli distinti, non assegnati da questa nota.
+
+Esempi, espressioni data, nomi di nodo, schemi citati e passi di import o esecuzione nel blocco upstream restano citazioni di quel blocco, con la portata della sezione in cui compaiono. Policy universale: non derivata da quelle citazioni. Autorizzazione a importare, attivare, fare login o usare dati reali: non contenuta in questa nota.
+
+Allineamento git puntuale alla stesura: HEAD locale, origin/main e upstream aliasoblomov/N8N-GA4-Backfill-Workflow main sullo SHA 2abddaffefe3100b4287e1e5b39bd107dbcc8d37. Questo conferma l'identità origin configurata del checkout. Canonicità, sync continuo e uso stanno fuori da questa uguaglianza.
+
+Il branch claude/n8n-workflow-recreation-011CUSJq9DETCYLz7rmyQRD1 (tip 728c4206aa201e981711542a759295d13aeb32c9) resta non unito. I file presenti solo lì non sono stati letti e non entrano in questa nota.
+
+Guida agente, matrice delle fonti e ricevuta: [AGENTS.md](AGENTS.md).
+
+---
+
 
 # 🚀 N8N GA4 Backfill Workflow
 
